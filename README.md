@@ -3,9 +3,7 @@ ofxLogger
 
 Introduction
 ------------
-Simple logging utility with time, date, line number, function/class caller, timing and auto padding options.
-
-See the example-ofxLogger for usage.
+ofxLogger is a add-on for openFrameworks that provides simple logging utilities with time, date, linear numbers, function and class callers, timing and auto padding options. Please see the "example-ofxLogger" folder for more information regarding usage.
 
 Licence
 -------
